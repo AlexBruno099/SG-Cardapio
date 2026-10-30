@@ -1,4 +1,8 @@
-# Welcome to your Expo app 👋
+# SG CARDAPIO
+
+Aplicativo de cardápio digital da SGBrSistemas.
+
+Abertura de mesa por câmera: [formato e uso dos QR Codes](docs/qr-code-mesas.md), com um código de exemplo da mesa 07 para impressão.
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
